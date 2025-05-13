@@ -8,6 +8,7 @@ This URL should display a welcome message that includes instructions on how to u
 
 Using a Custom Domain or NodePort (Kubernetes): If your application is exposed using a NodePort, Ingress, or LoadBalancer service, 
 use the respective external IP/hostname and port as provided in your deployment documentation.
+eg: HTTP://localhost:[Nodeport]
 
 **2. Interacting with the API Endpoints**
 **GET Endpoints**
